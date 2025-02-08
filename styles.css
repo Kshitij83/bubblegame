@@ -117,13 +117,13 @@ h1{
   }
 
   .bubble {
-    width: min(14vw, 50px);
-    height: min(14vw, 50px);
+    width: min(8vw, 40px);
+    height: min(8vw, 50px);
     font-size: 1rem;
   }
 
   .panel-btm {
-    font-size: 30px;
+    font-size: 20px;
     flex-direction: column; /* Stack elements vertically */
     gap: 12px;
   }
